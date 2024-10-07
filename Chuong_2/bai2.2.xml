@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ds-sinhvien> 
+    <sinhvien id="1"> 
+        <masinhvien>23174600001</masinhvien>
+        <tensv>Nguyễn Văn A</tensv> 
+        <namsinh>2005</namsinh>
+        <lop>DHKL17A3HN</lop> 
+        <gioitinh>Nam</gioitinh> 
+    </sinhvien >
+    <sinhvien id="2">
+        <masinhvien>23174600006</masinhvien>
+        <tensv>Nguyễn Thị B</tensv> 
+        <namsinh>2005</namsinh>
+        <lop>DHKL17A3HN</lop>  
+        <gioitinh>Nữ</gioitinh> 
+    </sinhvien >
+</ds-sinhvien>

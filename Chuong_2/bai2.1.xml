@@ -1,0 +1,13 @@
+<?xml="1.0" encoding="UTF-8"?>
+<company>
+    <director>Nguyễn Văn A</company>
+    <address>
+        <city>Hà Nội</city>
+        <district>Hai Bà Trưng</district>
+        <ward>Vĩnh Tuy</ward>
+        <street>Minh Khai</street>
+        <housenumber>456</housenumber>
+    </address>
+    <phonenumber>0123456789</phonenumber>
+    <taxnumber>4521000</taxnumber>
+</company>
