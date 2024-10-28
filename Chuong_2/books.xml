@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<bookstore>
+    <book>
+        <title>Python Programming</title>
+        <author>John Doe</author>
+    </book>
+    <book>
+        <title>Advanced Machine Learning</title>
+        <author>Jane Smith</author>
+    </book>
+</bookstore>
